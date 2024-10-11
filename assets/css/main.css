@@ -1752,3 +1752,7 @@ input, select, textarea {
 #closeModalButton:hover {
   background-color: #45a049; 
 }
+
+.details:hover {
+  transform: scale(1.1); /* Increase the button size by 10% on hover */
+}
